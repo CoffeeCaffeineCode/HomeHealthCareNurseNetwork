@@ -1,0 +1,39 @@
+/* 1 */
+{
+    "_id" : ObjectId("5adfdc568cca63248c86d138"),
+    "facilityName" : "Silver Care",
+    "firstName" : "Joseph",
+    "lastName" : "Grant",
+    "tel" : "3107531723",
+    "email" : "nazlifard@gmail.com",
+    "password" : "2018Gr@nt",
+    "website" : "www.silvercare.com ",
+    "address_1" : "3104 Doctor Drive",
+    "address_2" : "",
+    "city" : "Los Angeles",
+    "state" : "CA",
+    "zipcode" : "90017",
+    "username" : "silver_grant",
+    "userId" : "5adfdc568cca63248c86d137",
+    "_class" : "com.csula.thesis.model.Facility"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5adfe2b88cca633dec412592"),
+    "facilityName" : "Hope Heath Care",
+    "firstName" : "Kevin",
+    "lastName" : "Ross",
+    "tel" : "3107531723",
+    "email" : "nazlifard@gmail.com",
+    "password" : "2018R@ss",
+    "website" : "hopehealthcare.com",
+    "address_1" : "410 Grove Ave",
+    "address_2" : "",
+    "city" : "Los Anegeles",
+    "state" : "CA",
+    "zipcode" : "90028",
+    "username" : "hope_ross",
+    "userId" : "5adfe2b88cca633dec412591",
+    "_class" : "com.csula.thesis.model.Facility"
+}

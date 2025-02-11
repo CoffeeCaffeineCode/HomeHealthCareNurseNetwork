@@ -1,0 +1,37 @@
+/* 1 */
+{
+    "_id" : ObjectId("5adfe4348cca633dec412594"),
+    "firstName" : "Sara",
+    "lastName" : "King",
+    "dateofbirth" : "1980-02-25",
+    "gender" : "female",
+    "zipcode" : "90017",
+    "tel" : "3233355525",
+    "licenseNumber" : "ABC448581",
+    "nursingdegreeType" : "RN",
+    "email" : "nazlifard@gmail.com",
+    "username" : "s_king",
+    "password" : "2018K@ng",
+    "userId" : "5adfe4348cca633dec412593",
+    "available" : false,
+    "_class" : "com.csula.thesis.model.Nurse"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5adfe67e8cca63199cb0533f"),
+    "firstName" : "Frank",
+    "lastName" : "Smith",
+    "dateofbirth" : "1975-05-30",
+    "gender" : "male",
+    "zipcode" : "90045",
+    "tel" : "6263363657",
+    "licenseNumber" : "ABC54544",
+    "nursingdegreeType" : "LPN/LVN",
+    "email" : "nazlifard@gmail.com",
+    "username" : "f_smith",
+    "password" : "2018Sm@th",
+    "userId" : "5adfe67d8cca63199cb0533e",
+    "available" : false,
+    "_class" : "com.csula.thesis.model.Nurse"
+}

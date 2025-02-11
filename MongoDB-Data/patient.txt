@@ -1,0 +1,75 @@
+/* 1 */
+{
+    "_id" : ObjectId("5adfe7bb8cca63199cb05340"),
+    "firstName" : "David",
+    "lastName" : "Black",
+    "dateofbirth" : "1960-02-25",
+    "gender" : "male",
+    "tel" : "3235525252",
+    "address_1" : "262 Creek rd",
+    "address_2" : "",
+    "city" : "Los Angeles",
+    "state" : "CA",
+    "zipcode" : "90028",
+    "facilityId" : "5adfdc568cca63248c86d137",
+    "preferredNurseId" : "",
+    "preferredGender" : "male",
+    "_class" : "com.csula.thesis.model.Patient"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5adfe9f08cca630fc04326cf"),
+    "firstName" : "Dian",
+    "lastName" : "Lee",
+    "dateofbirth" : "2001-02-17",
+    "gender" : "female",
+    "tel" : "3103352626",
+    "address_1" : "2626 Sunset Blvd",
+    "address_2" : "",
+    "city" : "Los Angeles",
+    "state" : "CA",
+    "zipcode" : "90025",
+    "facilityId" : "5adfdc568cca63248c86d137",
+    "preferredNurseId" : "5adfe4348cca633dec412594",
+    "preferredGender" : "female",
+    "_class" : "com.csula.thesis.model.Patient"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5adff1768cca631ea47f8676"),
+    "firstName" : "Amy",
+    "lastName" : "Dyer",
+    "dateofbirth" : "1950-05-05",
+    "gender" : "female",
+    "tel" : "3103356262",
+    "address_1" : "1323 Fairfax Ave",
+    "address_2" : "",
+    "city" : "Los Angeles",
+    "state" : "CA",
+    "zipcode" : "90027",
+    "facilityId" : "5adfe2b88cca633dec412591",
+    "preferredNurseId" : "",
+    "preferredGender" : "",
+    "_class" : "com.csula.thesis.model.Patient"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5adff2268cca631ea47f8678"),
+    "firstName" : "Mary",
+    "lastName" : "Johnson",
+    "dateofbirth" : "1990-06-16",
+    "gender" : "female",
+    "tel" : "3106569689",
+    "address_1" : "233 S Vermont Ave",
+    "address_2" : "",
+    "city" : "Los Angeles",
+    "state" : "CA",
+    "zipcode" : "90045",
+    "facilityId" : "5adfe2b88cca633dec412591",
+    "preferredNurseId" : "",
+    "preferredGender" : "",
+    "_class" : "com.csula.thesis.model.Patient"
+}

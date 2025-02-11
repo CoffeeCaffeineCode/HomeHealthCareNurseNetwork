@@ -1,0 +1,41 @@
+/* 1 */
+{
+    "_id" : ObjectId("5adfea3a8cca630fc04326d0"),
+    "assignmentType" : "Diabetes/BloodPressure",
+    "date" : "2018-05-20",
+    "enterDate" : "2018.04.24.19.38",
+    "time" : "5:00 pm",
+    "nurseType" : "LPN/LVN",
+    "nurseId" : "",
+    "facilityId" : "5adfdc568cca63248c86d137",
+    "patientId" : "5adfe7bb8cca63199cb05340",
+    "_class" : "com.csula.thesis.model.Assignment"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5adff1998cca631ea47f8677"),
+    "assignmentType" : "Diabetes/BloodPressure",
+    "date" : "2018-05-21",
+    "enterDate" : "2018.04.24.20.10",
+    "time" : "10:00 AM",
+    "nurseType" : "RN",
+    "nurseId" : "5adfe4348cca633dec412593",
+    "facilityId" : "5adfe2b88cca633dec412591",
+    "patientId" : "5adff1768cca631ea47f8676",
+    "_class" : "com.csula.thesis.model.Assignment"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5adff24c8cca631ea47f8679"),
+    "assignmentType" : "Injection",
+    "date" : "2018-05-25",
+    "enterDate" : "2018.04.24.20.13",
+    "time" : "1:00 pm",
+    "nurseType" : "RN",
+    "nurseId" : "",
+    "facilityId" : "5adfe2b88cca633dec412591",
+    "patientId" : "5adff2268cca631ea47f8678",
+    "_class" : "com.csula.thesis.model.Assignment"
+}

@@ -1,0 +1,43 @@
+/* 1 */
+{
+    "_id" : ObjectId("5adfdc568cca63248c86d137"),
+    "userName" : "silver_grant",
+    "password" : "2018Gr@nt",
+    "role" : "Admin",
+    "enabled" : true,
+    "confirmationToken" : "53d8b471-3aa1-4251-bca1-8b6a7b1ab3f9",
+    "_class" : "com.csula.thesis.model.User"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5adfe2b88cca633dec412591"),
+    "userName" : "hope_ross",
+    "password" : "2018R@ss",
+    "role" : "Admin",
+    "enabled" : true,
+    "confirmationToken" : "f9f8727a-3842-4e4d-a580-94372d1c328c",
+    "_class" : "com.csula.thesis.model.User"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5adfe4348cca633dec412593"),
+    "userName" : "s_king",
+    "password" : "2018K@ng",
+    "role" : "Nurse",
+    "enabled" : true,
+    "confirmationToken" : "00faecfe-3a4e-4642-9632-97afe9fbef52",
+    "_class" : "com.csula.thesis.model.User"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5adfe67d8cca63199cb0533e"),
+    "userName" : "f_smith",
+    "password" : "2018Sm@th",
+    "role" : "Nurse",
+    "enabled" : true,
+    "confirmationToken" : "e7d83383-6e15-4200-9864-5f026289253e",
+    "_class" : "com.csula.thesis.model.User"
+}
